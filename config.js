@@ -20,7 +20,7 @@ var config = {
         "喝饱饱的",
         "然后才有力气摸鱼",
         "和想我！",
-        "生日快乐~~",
+        "生日快乐亲爱的~~",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -41,15 +41,15 @@ var config = {
         "漂亮的样子": "./imgs/xiaoqunzi.png",
         "可爱的样子": "./imgs/keai.png",
         "活泼的样子": "./imgs/huopo.jpeg",
-        "优雅的样子": "./imgs/youya.png",
+        "优雅的样子": "./imgs/youya.jpeg",
         "疲倦的样子": "./imgs/pijuan.png",
         "都是我喜欢的样子": "./imgs/xihuan.png",
         "对了，礼物收全了吗？": "./imgs/chuo.gif",
         "今年要吃好好的": "./imgs/chifan.png",
-        "喝饱饱的": "./imgs/hejiu.jpeg",
-        "然后才有力气摸鱼": "./imgs/nothing.jpg",
-        "和想我！": "./imgs/nothing.jpg",
-        "生日快乐~~": "./imgs/nothing.jpg"
+        "喝饱饱的": "./imgs/hejiu.png",
+        "然后才有力气摸鱼": "./imgs/moyu.gif",
+        "和想我！": "./imgs/xw.jpeg",
+        "生日快乐亲爱的~~": "./imgs/srkl.png"
     },
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
