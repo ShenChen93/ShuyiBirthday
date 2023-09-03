@@ -17,9 +17,10 @@ var config = {
         "都是我喜欢的样子",
         "对了，礼物收全了吗？",
         "今年要吃好好的",
-        "喝饱饱的",
         "然后才有力气摸鱼",
         "和想我！",
+        "不开心了要找我喝酒",
+        "第二年也要手拉手去很多地方",
         "生日快乐亲爱的~~",
     ],
     /**
@@ -33,10 +34,10 @@ var config = {
      */
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
-        "心爱的树叶": "./imgs/nothing.jpg",
+        "心爱的树叶": "./imgs/xw.jpg",
         "今天是你的生日": "./imgs/shengri.jpeg",
-        "这是我们在一起的": "./imgs/zaiyiqi.png",
-        "第三个生日！": "./imgs/nothing.jpg",
+        "这是我们在一起的": "./imgs/zyq.jpeg",
+        "第一个生日！": "./imgs/diyi.gif",
         "这两年来，我见过你": "./imgs/yangzi.jpeg",
         "漂亮的样子": "./imgs/xiaoqunzi.png",
         "可爱的样子": "./imgs/keai.png",
@@ -46,9 +47,10 @@ var config = {
         "都是我喜欢的样子": "./imgs/xihuan.png",
         "对了，礼物收全了吗？": "./imgs/chuo.gif",
         "今年要吃好好的": "./imgs/chifan.png",
-        "喝饱饱的": "./imgs/hejiu.png",
         "然后才有力气摸鱼": "./imgs/moyu.gif",
         "和想我！": "./imgs/xw.jpeg",
+        "不开心了要找我喝酒": "./imgs/hejiu.png",
+        "第二年也要手拉手去很多地方": "./imgs/lashou.jpeg",
         "生日快乐亲爱的~~": "./imgs/srkl.png"
     },
     
