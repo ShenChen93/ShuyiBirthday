@@ -34,7 +34,7 @@ var config = {
      */
     imgs: {
         "送给我": "./imgs/songxinxin.jpeg",
-        "心爱的树叶": "./imgs/xw.jpg",
+        "心爱的树叶": "./imgs/xw.jpeg",
         "今天是你的生日": "./imgs/shengri.jpeg",
         "这是我们在一起的": "./imgs/zyq.jpeg",
         "第一个生日！": "./imgs/diyi.gif",
@@ -48,7 +48,7 @@ var config = {
         "对了，礼物收全了吗？": "./imgs/chuo.gif",
         "今年要吃好好的": "./imgs/chifan.png",
         "然后才有力气摸鱼": "./imgs/moyu.gif",
-        "和想我！": "./imgs/xw.jpeg",
+        "和想我！": "./imgs/xiangwo.png",
         "不开心了要找我喝酒": "./imgs/hejiu.png",
         "第二年也要手拉手去很多地方": "./imgs/lashou.jpeg",
         "生日快乐亲爱的~~": "./imgs/srkl.png"
