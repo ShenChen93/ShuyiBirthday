@@ -283,6 +283,8 @@ $('document').ready(function () {
 
     $('#kq').click(function () {
         audio.pause();
+        $('.cake')
+            .fadeOut('fast')
         $('.video').fadeIn('slow');
         video.play();
         $(this)
@@ -291,13 +293,6 @@ $('document').ready(function () {
         video.onended = function() {
             audio.play();
             $('.video').fadeOut('quick');
-            loopOne();
-            loopTwo();
-            loopThree();
-            loopFour();
-            loopFive();
-            loopSix();
-            loopSeven();
             $('.fin').fadeIn('slow');
         }
     });
