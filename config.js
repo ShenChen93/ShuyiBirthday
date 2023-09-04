@@ -63,7 +63,9 @@ var config = {
         cake_fadein: "蛋糕？",
         light_candle: "蜡烛？",
         wish_message: "生日快乐～",
-        story: "A MESSAGE FOR YOU"
+        story: "A MESSAGE FOR YOU",
+        js: "结束了！你还没退出去？",
+        kq: "那你想听生日快乐歌嘛",
     },
 
     // 结束语

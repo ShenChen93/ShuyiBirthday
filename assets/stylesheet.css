@@ -1260,10 +1260,29 @@ audio {
 	bottom: 0;
 	padding:10px 0px 10px 0px;
 }
-#play, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#wish_message,#story {
+#play, #bannar_coming, #balloons_flying,#cake_fadein,#light_candle,#wish_message,#story, #js, #kq {
 	display: none;
 }
 
+.video {
+	position: absolute;
+	left: 45%;
+	top: 58%;
+	display: none;
+	max-width: 90%;
+	max-height: 200px;
+	margin: 5px auto;
+	border-radius: 50%;
+	box-shadow: #468636 0 0 4px;
+}
+.fin {
+	position: absolute;
+	left: 45%;
+	top: 58%;
+	max-width: 100%;
+	max-height: 200px;
+	display: none;
+}
 .cake-cover {
 	margin-top: 50px;
 }
