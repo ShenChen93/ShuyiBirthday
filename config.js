@@ -18,7 +18,7 @@ var config = {
         "对了，礼物收全了吗？",
         "今年要吃好好的",
         "然后才有力气摸鱼",
-        "和想我！",
+        "和想我！（叉腰）",
         "不开心了要找我喝酒",
         "今后也要手拉手去很多地方",
         "生日快乐亲爱的~~",
@@ -48,7 +48,7 @@ var config = {
         "对了，礼物收全了吗？": "./imgs/chuo.gif",
         "今年要吃好好的": "./imgs/chifan.png",
         "然后才有力气摸鱼": "./imgs/moyu.gif",
-        "和想我！": "./imgs/xiangwo.png",
+        "和想我！（叉腰）": "./imgs/xiangwo.png",
         "不开心了要找我喝酒": "./imgs/hejiu.png",
         "今后也要手拉手去很多地方": "./imgs/lashou.jpeg",
         "生日快乐亲爱的~~": "./imgs/srkl.png"
